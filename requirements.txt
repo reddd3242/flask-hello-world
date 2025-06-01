@@ -1,2 +1,5 @@
-Flask
-Gunicorn
+flask
+pytesseract
+gtts
+openai
+pillow
