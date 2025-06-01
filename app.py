@@ -5,7 +5,7 @@ from gtts import gTTS
 import openai
 import os
 
-openai.api_key = os.environ.get("OPENAI_API_KEY")
+openai.api_key = os.environ.get("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")
 
 app = Flask(__name__)
 
